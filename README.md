@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/inogomovfozil01-sys">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Frontend+%26+Fullstack+Developer;React+%7C+Next.js+%7C+TypeScript;Building+modern+web+applications;Clean+Code+%26+High+Performance" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Frontend+Developer+%26+AI+Specialist;HTML5+%7C+CSS3+%7C+JavaScript+%7C+React;Next.js+%7C+TypeScript+%7C+Tailwind+CSS;Generative+AI+%7C+Gemini+API+%7C+Prompt+Engineering;Git+%26+GitHub+%7C+Clean+Code+%7C+Modern+UI" alt="Typing SVG" />
   </a>
 
   <br />
@@ -29,50 +29,53 @@
 
 ### 👨‍💻 About Me / Обо мне
 
-Passionate **Frontend & Fullstack Developer** dedicated to crafting intuitive, performant, and scalable digital products. Focused on modern web technologies, responsive user interfaces, and robust application architecture.
+Привет! Я **Frontend-разработчик** и специалист по внедрению **Искусственного Интеллекта (AI)**. Создаю современные, адаптивные и интерактивные веб-интерфейсы, обогащая их мощными возможностями нейросетей и автоматизации.
 
-- 🚀 Currently focused on building high-impact fullstack projects with **Next.js 15**, **React 19**, and **TypeScript**.
-- 🛠️ Experienced in integrating database solutions with **Prisma ORM**, building APIs, and automating processes with **Python**.
-- 💡 Actively exploring generative AI integrations (Gemini API) and modern testing tools (Vitest).
-- 📍 Based in **Tashkent, Uzbekistan**.
-- 🎯 Always open to exciting collaborations, open-source contributions, and new professional opportunities.
+- 🎨 **Frontend**: Уверенно владею **HTML5**, **CSS3**, **JavaScript (ES6+)**, а также современным стеком (**React**, **Next.js**, **TypeScript**, **Tailwind CSS**).
+- 🤖 **AI & Нейросети**: Разработка умных решений, интеграция LLM API (**Google Gemini API**, генеративные модели), Prompt Engineering и создание интеллектуальных чат-ботов.
+- 🔧 **Инструменты & VCS**: Работаю с **Git** и **GitHub**, следую принципам чистого кода и компонентной архитектуры.
+- 📍 Локация: **Ташкент, Узбекистан**.
+- 🚀 Стремлюсь к созданию эстетичных, быстрых веб-приложений нового поколения на стыке Frontend и ИИ.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Стек технологий и навыки
 
 <div align="center">
 
-#### Frontend Development
+#### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" alt="Frontend Technologies" />
 </p>
 
-#### Backend & Database
+#### 🧠 AI & Intelligent Automation
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,python" alt="Backend Technologies" />
+  <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75C4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini AI" />
+  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-00897B?style=for-the-badge&logo=codementor&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-#### Tools & Environment
+#### ⚙️ Tools & Workflow
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vitest,postman,vercel,figma" alt="Tools & Workflow" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vitest" alt="Tools & Workflow" />
 </p>
 
 </div>
 
 ---
 
-### 🚀 Featured Projects / Избранные проекты
+### 🚀 Избранные проекты (Featured Projects)
 
-| Project | Tech Stack | Highlights |
+| Проект | Стек | Описание |
 | :--- | :--- | :--- |
-| 💼 **[uzbjobs](https://github.com/inogomovfozil01-sys/uzbjobs)** | Next.js 15, React 19, TypeScript, Prisma, Tailwind, Gemini AI, Vitest | Modern fullstack job platform with AI-assisted features, NextAuth authentication, responsive UI, and robust test suite. |
-| ⏱️ **[watches](https://github.com/inogomovfozil01-sys/watches)** | JavaScript (ES6+), CSS3, HTML5 | Interactive watch showcase application highlighting responsive UI and clean front-end interactions. |
-| 🤖 **[Bot-for-my-group](https://github.com/inogomovfozil01-sys/Bot-for-my-group)** | Python | Automated Telegram bot designed for group moderation, notifications, and workflow automation. |
+| 🤖 **[uzbjobs](https://github.com/inogomovfozil01-sys/uzbjobs)** | Next.js 15, React 19, Gemini AI, TypeScript, Tailwind | Платформа поиска работы с интеграцией **Искусственного Интеллекта (Gemini API)**, современным UI и чистой архитектурой. |
+| ⏱️ **[watches](https://github.com/inogomovfozil01-sys/watches)** | JavaScript, CSS3, HTML5 | Интерактивная витрина товаров с адаптивной версткой, плавными анимациями и чистым JS. |
+| ⚡ **[Bot-for-my-group](https://github.com/inogomovfozil01-sys/Bot-for-my-group)** | Python | Telegram-бот для автоматизации рабочих процессов, модерации сообществ и оповещений. |
 
 ---
 
-### 📊 GitHub Statistics & Activity
+### 📊 Активность и статистика GitHub
 
 <div align="center">
   <table border="0">
@@ -98,5 +101,5 @@ Passionate **Frontend & Fullstack Developer** dedicated to crafting intuitive, p
 ---
 
 <div align="center">
-  <sub>⭐️ Built with precision & clean code • Feel free to explore my repositories!</sub>
+  <sub>⭐️ Чистый код, адаптивная вёрстка и умные ИИ-решения • Спасибо за визит!</sub>
 </div>
